@@ -167,7 +167,7 @@ results](Bulk_RNAseq_Course_Base/Markdowns/11_Annotation_and_Visualisation.html)
 
 The lecture slides and other source materials, including R code and 
 practical solutions, can be found in the course's [Github 
-repository](https://github.com/bioinformatics-core-shared-training/Bulk_RNAseq_Course_2021)
+repository](https://github.com/bioinformatics-core-shared-training/Bulk_RNASeq_Course_Nov21)
 
 ## Extended materials
 
