@@ -13,6 +13,7 @@
 * Jon Price - Miska Group, Gurdon Institute, Cambridge
 * Stephane Ballereau - Bioinformatics Core, Cancer Research UK Cambridge Institute
 * Hugo Tavares - Bioinformatics Training Facility, Dept of Genetics
+* Karsten Bach - Department of Pharmacology, University of Cambridge
 
 
 ## Outline
