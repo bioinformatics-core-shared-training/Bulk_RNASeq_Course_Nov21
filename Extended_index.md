@@ -28,7 +28,7 @@ during the taught course.
 4. Annotation and Visualisation - extended 
     - [Annotation with biomaRt](Bulk_RNAseq_Course_Base/Markdowns/S6_Annotation_With_BioMart.html)  
         - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/S6_Annotation_With_BioMart.Solution.html)
-    - [Creating the annotation used in the course](Bulk_RNAseq_Course_Base/additional_scripts/Making_the_annotation_table.html)
+    - [Creating the annotation used in the course](Bulk_RNAseq_Course_Base/additional_scripts_and_materials/Making_the_annotation_table.html)
     - [Additional Visualisations](Bulk_RNAseq_Course_Base/Markdowns/S7_Additional_Visualisation.html)
 
 ### Supplementary lessons
