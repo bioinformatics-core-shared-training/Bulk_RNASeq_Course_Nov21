@@ -161,7 +161,7 @@ Data Exploration](Bulk_RNAseq_Course_Base/Markdowns/07_Data_Exploration.html) ([
 
 13.45 - 15.00 [Annotation and Visualisation of RNA-seq
 results](Bulk_RNAseq_Course_Base/Markdowns/11_Annotation_and_Visualisation.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/11_Annotation_and_Visualisation.pdf)) - Chandra Chilamakuri   
-   <!-- - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/11_Annotation_and_Visualisation_Solutions.html) -->  
+   - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/11_Annotation_and_Visualisation_Solutions.html)   
    
 15:00 - 17:00 [Gene-set testing](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing_introduction.html) - Stephane Ballereau    
    - [Practical (html)](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing.html) [(rmd)](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing.Rmd) [(pdf)](Bulk_RNAseq_Course_Base/Markdowns/12_Gene_set_testing.pdf)
