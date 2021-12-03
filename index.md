@@ -49,7 +49,7 @@ as we go.
 ## Shared Google Document
 
 This 
-<a href="" target="_blank">Google Document</a> contains useful information and links.. 
+<a href="" target="https://docs.google.com/document/d/113h9ifoS5Z0D1mloWU9hMFAGFNCM2ju15r7Bp6ZO0Dc">Google Document</a> contains useful information and links.. 
 
 Please use it to post any questions you have during the course.
 
